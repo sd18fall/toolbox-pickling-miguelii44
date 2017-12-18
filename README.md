@@ -1,4 +1,5 @@
 # ToolBox-Pickling
-Pickling Project Toolbox starter code
 
-Full instructions at [the course website](https://sd17spring.github.io/toolboxes/pickling/)
+Pickling Project Toolbox starter code.
+
+Full instructions are on [the toolbox page](https://toolboxes.olin.build/pickling/).
